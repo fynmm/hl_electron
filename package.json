@@ -1,7 +1,7 @@
 {
   "name": "qiangmaotai",
   "version": "1.0.0",
-  "description": "",
+  "description": "my-electron",
   "main": "index.js",
   "type": "module",
   "scripts": {
