@@ -4,8 +4,8 @@ export default {
       name: '@electron-forge/publisher-github',
       config: {
         repository: {
-          owner: '974800149@qq.com',
-          name: 'fynmm/hl_electron'
+          owner: 'fynmm',
+          name: 'hl_electron'
         },
         prerelease: false,
         draft: true
